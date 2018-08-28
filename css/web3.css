@@ -1,0 +1,101 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    height: 85%;
+    margin: 0;
+    background-image: url(../images/roadbg.jpg);
+    background-attachment: fixed;
+    background-position: center bottom;
+    background-size: cover;
+}
+
+.menu {
+    width: 100%;
+    height: 75px;
+    padding: -2px;
+    margin: auto;
+    text-align: center;
+    /* align-content: center; */
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    font-size: 18px;
+    /* margin: 25px; */
+    padding:  25px;
+    color: white;
+}
+
+.middle {
+    height: 30%;
+    width: 40%;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    position: absolute;
+}
+
+.liner {
+    height: auto;
+    width: 50%;
+    align-content: center;
+    font-size: 6em;
+    margin: auto;
+    position: relative;
+}
+
+.by {
+    height: auto;
+    width: 50%;
+    font-size: 1em;
+    margin: auto;
+}
+
+.secondPage {
+    height:100%;
+    width:100%;
+    margin:0;
+    background: #f2f2f2;
+    position: absolute;
+}
+
+.welcome {
+    height:100px;
+    width:100%;
+    margin:0;
+    font-size: 1.5em;
+    color:#777;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.list {
+    height:200px;
+    margin: auto;
+   text-align: center;
+    width:80%;
+    
+    border-bottom: 1px solid #948484;
+}
+

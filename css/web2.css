@@ -1,0 +1,229 @@
+html,body{
+    height: 100%;
+    width:100%;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+*{
+    box-sizing: border-box;
+        font-family: 'Raleway', sans-serif;
+
+}
+.web {
+    height: 100%;
+    width:100%;
+    margin:0px;
+        background-color: #1E2832;
+    color: rgba(255, 255, 255, 0.75);
+    background-image: url(../images/overlay.png),url(../images/bg%20banner.jpg);
+/*    position: fixed;*/
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.retro {
+    height: 100px;
+    width:auto;
+    margin:0;
+    /* font-family: verdana; */
+    color:white;
+    font-size: 1.2em;
+    position: relative;
+    top: 25px;
+    font-weight: bold;
+    left: 40px;
+    display: inline-block;
+    /* background-color: blue; */
+}
+
+.menu {
+   height: 100px;
+   width:auto;
+   margin:0;
+   position: absolute;
+   right: 90px;
+   top: 16px;
+   display: inline-block;
+   color: white;
+}
+
+.center {
+    height: 470px;
+    margin: auto;
+    position:  relative;
+    width: 500px;
+}
+
+.diamond {
+    
+}
+
+.etim {
+    height:50px;
+    width: 70%;
+    color: white;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 1.5em;
+    position: relative;
+    left: 26px;
+    right:0;
+    top: 30%;
+}
+
+.magna {
+    height:50px;
+    width: 81%;
+    color: white;
+    margin: auto;
+    font-weight: bolder;
+    font-size: 17px;
+    position: relative;
+    left:0;
+    right:0;
+    top: 28%;
+}
+
+.learn {
+    height: 10%;
+    width: 36%;
+    color: white;
+    top: 30%;
+    left: -10px;
+    border-radius: 25px;
+    margin:  auto;
+    background-color: #51baa4;
+    position: relative;
+}
+
+.a {
+    margin: auto;
+    position:  relative;
+    left: 21%;
+    top: 32%;
+    right: 0;
+    bottom:  0;
+}
+
+.second {
+/*    height: auto;*/
+    width:100%;
+    margin: 0;
+    background-color:#eeeeee;
+    display: inline-block;
+    position: relative;
+}
+
+.top {
+    height: 300px;
+    width: 75%;
+    margin: auto;
+    /* left: 0; */
+    /* right:  0; */
+    /* top: 75px; */
+    /* display: inline-block; */
+    /* position: absolute; */
+    /* left:0; */
+    /* right: 0; */
+    margin: 74px auto;
+}
+
+.topLeft {
+    height: 100%;
+    width:50%;
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    float: left;
+    
+}
+
+.topRight {
+    height:100%;
+    width:50%;
+    margin: 0;
+    float: right;
+    background-color: white;
+    color: dimgray;
+}
+
+
+
+.b {
+    margin:25px;
+    line-height: 1.5;
+    color:black;
+    text-transform: uppercase;
+}
+
+.c {
+    margin:25px;
+    line-height: 1.5;
+}
+
+.bottom {
+        height: 300px;
+        width: 75%;
+        margin: auto;
+        background-color:  white;
+}
+.bottomRight {
+    height: 100%;
+    width:50%;
+    margin: 0;
+    position: relative;
+    display: inline-block;
+    float: right;
+    margin-bottom: 100px;
+}
+
+.bottomLeft {
+      height:100%;
+    width:50%;
+    margin: 0;
+    float: left;
+    background-color: white;
+    color: dimgray;
+}
+    
+}
+
+.third {
+    width: 100%;
+    margin:0;
+    
+}
+
+.text {
+    width: 50%;
+    margin:100px auto;
+    font-size: 1.5em;
+    align-content: center;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.imgs {
+    height:350px;
+    width:80%;
+    margin: auto;
+    background-color: darkgrey;
+}
+
+.image {
+    height:50%;
+    float: left;
+    width:25%;
+    
+}
+
+.tempus {
+    height: 73px;
+    width: 225px;
+    margin:100px auto;
+    border: 4px aqua solid;
+    align-content: center;
+    text-align: center;
+    border-radius: 2em;
+    color:aqua;
+}
